@@ -1,2 +1,2 @@
 # Kedou Team
-**New GAME** *Coming Soon…*
+**New GAME** made with **Godot** *Coming <strike>Soon</strike>…*
